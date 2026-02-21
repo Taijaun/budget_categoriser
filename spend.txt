@@ -1,0 +1,7 @@
+food, 12.50
+transport, 7.20
+rent, 250
+food, 3.80
+food, banana
+, 5
+entertainment, 15
